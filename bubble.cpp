@@ -27,7 +27,7 @@ void bubble_sort(vector<int> a){
 
 }
 int main(){
-    vector<int> lol= {7,11,89,8,5,47};
+    vector<int> lol= {7,11,89,8,5,47.53,67,65,45};
     bubble_sort(lol);
     // for(int i=0;i<lol.size();i++){
     //     cout << lol[i] << " ";
